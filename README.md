@@ -1,6 +1,10 @@
 # Gh0stFl0w
 Gh0stFl0w is a collection of **pentesting mindmaps** designed to streamline and organize offensive security workflows. Created by **Eth3rnal aka EthanLacerenza**, these mindmaps serve as a structured knowledge base for pentesters, red teamers, and security professionals.
 
+
+![image](https://github.com/user-attachments/assets/6126230a-86fa-4e32-a1ac-f01264fae022)
+
+
 ## 🔥 About
 GhostFlow contains **mindmaps built with Notion and Excalidraw**, covering various phases of penetration testing, including:
 - Reconnaissance
